@@ -17,16 +17,6 @@ This project focuses on enhancing chest X-ray images using digital image process
 * OpenCV
 * NumPy
 * Matplotlib
-
-## Results
-
-### Original Chest X-ray
-
-(Add original image here)
-
-### Enhanced Chest X-ray
-
-(Add enhanced image here)
-
+  
 ## How to Run
 python chest-xray-image-processing.py
