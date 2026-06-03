@@ -30,9 +30,3 @@ This project focuses on enhancing chest X-ray images using digital image process
 
 ## How to Run
 python chest-xray-image-processing.py
-
-## Author
-
-Moriom Jerin Shithil
-Department of Electronics and Communication Engineering (ECE)
-Khulna University of Engineering & Technology (KUET)
